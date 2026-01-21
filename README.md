@@ -42,10 +42,9 @@ Tenho formação em **Análise e Desenvolvimento de Sistemas** e foco em:
 
 ## 📫 Vamos nos conectar?
 
-- 🔗 GitHub: https://github.com/flavio-de-assis
 - 🌐 Linktree: https://flavio-de-assis.github.io/linktree/
 - 📧 Email: f4batista@gmail.com
-- 💼 LinkedIn: *(adicione aqui)*
+- 💼 LinkedIn: https://www.linkedin.com/in/flavio-de-assis/
 
 ---
 
