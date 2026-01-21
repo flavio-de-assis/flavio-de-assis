@@ -7,7 +7,7 @@ Atuando com SQL e ETL para validar, organizar e transformar dados corporativos e
 
 ## 🧠 Sobre mim
 
-Sou Analista de Dados em desenvolvimento, com experiência prática em **SQL, validação de dados e sistemas ERP**, atuando com dados **financeiros, fiscais e operacionais**.
+Sou Engenheiro de Dados em desenvolvimento, com experiência prática em **SQL, validação de dados e sistemas ERP**, atuando com dados **financeiros, fiscais e operacionais**.
 
 Tenho formação em **Análise e Desenvolvimento de Sistemas** e foco em:
 - Qualidade e consistência de dados
