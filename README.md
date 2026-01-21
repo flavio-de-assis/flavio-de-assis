@@ -1,7 +1,7 @@
 ## 👋 Oi, eu sou o Flávio de Assis
 
 **Analista de Dados | Engenharia de Dados Jr**  
-Unindo dados, processos e tecnologia para apoiar decisões mais inteligentes 🚀
+Atuando com SQL e ETL para validar, organizar e transformar dados corporativos em informação confiável 🚀
 
 ---
 
@@ -14,8 +14,6 @@ Tenho formação em **Análise e Desenvolvimento de Sistemas** e foco em:
 - Automação de processos
 - Análises aplicadas ao negócio
 - Fundamentos de Engenharia de Dados
-
-📍 Belo Horizonte – MG
 
 ---
 
