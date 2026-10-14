@@ -1,40 +1,43 @@
 ## 👋 Oi, eu sou o Flávio de Assis
 
-**Analista de Dados | Engenharia de Dados Jr**  
-Atuando com SQL e ETL para validar, organizar e transformar dados corporativos em informação confiável 🚀
+**Analista de BI e Dados | SQL · Power BI · Python**  
+Transformo dados de ERP em decisões de negócio: dashboards, indicadores e validação de dados com SQL 📊
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou Engenheiro de Dados em desenvolvimento, com experiência prática em **SQL, validação de dados e sistemas ERP**, atuando com dados **financeiros, fiscais e operacionais**.
+Trabalho com dados de **sistemas ERP** (financeiros, fiscais e operacionais) no dia a dia. Como **Consultor de Implantação**, conduzo a migração de dados de clientes para o ERP: levanto requisitos com a área de negócio, trato e valido as bases com SQL e garanto que os números batam antes de o sistema entrar em produção.
 
-Tenho formação em **Análise e Desenvolvimento de Sistemas** e foco em:
-- Qualidade e consistência de dados
-- Automação de processos
-- Análises aplicadas ao negócio
-- Fundamentos de Engenharia de Dados
+- **+1 milhão de registros** migrados e validados com SQL em cerca de 20 implantações
+- Ponte entre o usuário de negócio e o dado: entendo a dor, traduzo em regra e entrego o indicador
+- Fundador da **PVB Gestão & Dados**, onde desenvolvo painéis de gestão sobre dados de ERP
+
+Estou cursando **Análise e Desenvolvimento de Sistemas** na UNA (conclusão em dez/2026).
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **SQL** (JOINs, CTEs, agregações, validações)
-- **Python** (automação e análise básica)
-- **ETL / ELT** (fundamentos e prática)
-- **Bancos de dados relacionais**
-- **ERP corporativo**
-- **Git & GitHub**
+| Área | Ferramentas |
+|---|---|
+| Consulta e modelagem | **SQL** (JOINs, CTEs, agregações, validações), **PostgreSQL** |
+| BI e visualização | **Power BI**, **Excel** |
+| Programação | **Python** (Pandas, automação) |
+| Dados e integração | **ETL**, ERP corporativo, Supabase |
+| Automação | **n8n**, automação com IA |
+| Versionamento | Git & GitHub |
+
+📚 **Estudando agora:** BigQuery e dbt
 
 ---
 
 ## 📂 O que você encontra aqui
 
-- Projetos práticos com dados reais
-- Consultas SQL aplicadas a cenários corporativos
-- Pipelines de dados em Python
+- Consultas SQL aplicadas a cenários reais de negócio
+- Análises e dashboards a partir de dados corporativos
 - Validação e qualidade de dados
-- Evolução contínua na área de Dados
+- Automações com Python e n8n
 
 ---
 
@@ -46,4 +49,4 @@ Tenho formação em **Análise e Desenvolvimento de Sistemas** e foco em:
 
 ---
 
-⭐ *Este perfil representa minha jornada prática rumo à Engenharia de Dados.*
+⭐ *Dados só valem quando viram decisão.*
