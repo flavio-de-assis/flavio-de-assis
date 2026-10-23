@@ -29,7 +29,8 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na UNA (conclusão em 
 | Automação | **n8n**, automação com IA |
 | Versionamento | Git & GitHub |
 
-📚 **Próximos estudos, rumo à Engenharia de Dados:** Python para dados → dbt → Docker
+📚 **Estudando agora:** Python para dados  
+🚀 **Próximos passos, rumo à Engenharia de Dados:** dbt → Docker → Airflow
 
 ---
 
