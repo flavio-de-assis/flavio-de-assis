@@ -60,7 +60,7 @@ Análise de ponta a ponta com cerca de **100 mil pedidos reais** de um e-commerc
 ## 📫 Vamos nos conectar?
 
 - 🌐 Linktree: https://flavio-de-assis.github.io/linktree/
-- 📧 Email: f4batista@gmail.com
+- 📧 Email: f4batiista@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/flavio-de-assis/
 
 ---
