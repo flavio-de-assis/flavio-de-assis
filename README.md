@@ -34,6 +34,20 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na UNA (conclusão em 
 
 ---
 
+## 🏆 Projeto em destaque
+
+### [Análise de E-commerce Olist · BigQuery + Power BI](https://github.com/flavio-de-assis/ecommerce-analysis-olist)
+
+Análise de ponta a ponta com cerca de **100 mil pedidos reais** de um e-commerce brasileiro: carga e validação no **BigQuery**, análises em **SQL**, modelagem em **esquema estrela** com views e dashboard no **Power BI** com medidas **DAX**.
+
+- **R$ 13,18 milhões** de faturamento analisados (jan/2017 a ago/2018)
+- Principal achado: pedidos entregues com atraso têm nota média de **2,27**, contra **4,29** dos entregues no prazo
+- Recomendações de negócio para logística no Norte e no Nordeste e para os picos de venda
+
+[![Dashboard do projeto Olist](https://github.com/flavio-de-assis/ecommerce-analysis-olist/raw/main/imagens/visao_geral.png)](https://github.com/flavio-de-assis/ecommerce-analysis-olist)
+
+---
+
 ## 📂 O que você encontra aqui
 
 - Consultas SQL aplicadas a cenários reais de negócio
