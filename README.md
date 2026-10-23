@@ -22,13 +22,14 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na UNA (conclusão em 
 | Área | Ferramentas |
 |---|---|
 | Consulta e modelagem | **SQL** (JOINs, CTEs, agregações, validações), **PostgreSQL** |
-| BI e visualização | **Power BI**, **Excel** |
+| Data warehouse | **BigQuery** (Google Cloud): carga, views e modelagem em esquema estrela |
+| BI e visualização | **Power BI** (DAX), **Excel** |
 | Programação | **Python** (Pandas, automação) |
 | Dados e integração | **ETL**, ERP corporativo, Supabase |
 | Automação | **n8n**, automação com IA |
 | Versionamento | Git & GitHub |
 
-📚 **Estudando agora:** BigQuery e dbt
+📚 **Próximos estudos, rumo à Engenharia de Dados:** Python para dados → dbt → Docker
 
 ---
 
